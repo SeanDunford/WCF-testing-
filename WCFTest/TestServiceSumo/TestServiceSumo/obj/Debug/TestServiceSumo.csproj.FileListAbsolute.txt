@@ -1,0 +1,5 @@
+C:\Users\Sean\Sumo\Visual Studio\Projects\Team\SeanDunford\WCFTest\TestServiceSumo\TestServiceSumo\bin\TestServiceSumo.dll
+C:\Users\Sean\Sumo\Visual Studio\Projects\Team\SeanDunford\WCFTest\TestServiceSumo\TestServiceSumo\bin\TestServiceSumo.pdb
+C:\Users\Sean\Sumo\Visual Studio\Projects\Team\SeanDunford\WCFTest\TestServiceSumo\TestServiceSumo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sean\Sumo\Visual Studio\Projects\Team\SeanDunford\WCFTest\TestServiceSumo\TestServiceSumo\obj\Debug\TestServiceSumo.dll
+C:\Users\Sean\Sumo\Visual Studio\Projects\Team\SeanDunford\WCFTest\TestServiceSumo\TestServiceSumo\obj\Debug\TestServiceSumo.pdb

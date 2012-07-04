@@ -1,0 +1,10 @@
+C:\Users\Sean\Sumo\Visual Studio\Projects\Team\SeanDunford\WCFTest\SumoForm\bin\Debug\SumoForm.exe.config
+C:\Users\Sean\Sumo\Visual Studio\Projects\Team\SeanDunford\WCFTest\SumoForm\bin\Debug\SumoForm.exe
+C:\Users\Sean\Sumo\Visual Studio\Projects\Team\SeanDunford\WCFTest\SumoForm\bin\Debug\SumoForm.pdb
+C:\Users\Sean\Sumo\Visual Studio\Projects\Team\SeanDunford\WCFTest\SumoForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sean\Sumo\Visual Studio\Projects\Team\SeanDunford\WCFTest\SumoForm\obj\x86\Debug\SumoForm.Form1.resources
+C:\Users\Sean\Sumo\Visual Studio\Projects\Team\SeanDunford\WCFTest\SumoForm\obj\x86\Debug\SumoForm.Properties.Resources.resources
+C:\Users\Sean\Sumo\Visual Studio\Projects\Team\SeanDunford\WCFTest\SumoForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sean\Sumo\Visual Studio\Projects\Team\SeanDunford\WCFTest\SumoForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sean\Sumo\Visual Studio\Projects\Team\SeanDunford\WCFTest\SumoForm\obj\x86\Debug\SumoForm.exe
+C:\Users\Sean\Sumo\Visual Studio\Projects\Team\SeanDunford\WCFTest\SumoForm\obj\x86\Debug\SumoForm.pdb
